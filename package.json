@@ -1,19 +1,19 @@
 {
-  "name": "vue-pdf",
-  "version": "4.2.0",
-  "description": "vue.js pdf viewer",
+  "name": "vue-pdf-signature",
+  "version": "4.2.0-signature.1",
+  "description": "vue-pdf 4.2.0 定制版，支持PDF签章显示",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
+    "url": "https://github.com/15302088526/vue-pdf.git"
   },
   "keywords": [
     "vue.js",
     "pdf",
     "viewer"
   ],
-  "author": "Franck FREIBURGER",
+  "author": "wangzheng<2216983313@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FranckFreiburger/vue-pdf/issues"
