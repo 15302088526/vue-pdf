@@ -1,5 +1,5 @@
 {
-  "name": "vue-pdf-signature",
+  "name": "wangzheng-vue-pdf-signature",
   "version": "4.2.0-signature.1",
   "description": "vue-pdf 4.2.0 定制版，支持PDF签章显示",
   "main": "src/vuePdfNoSss.vue",
