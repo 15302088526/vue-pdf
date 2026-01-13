@@ -1,13 +1,13 @@
-# vue-pdf
+# wangzheng-vue-pdf-signature
 vue.js pdf viewer is a package for Vue that enables you to display and view PDF's easily via vue components.
 
 ## Install via NPM/Yarn
 ```bash
-npm install vue-pdf
+npm install wangzheng-vue-pdf-signature
 ```
 
 ```bash
-yarn add vue-pdf
+yarn add wangzheng-vue-pdf-signature
 ```
 
 ## Example - basic
@@ -17,7 +17,7 @@ yarn add vue-pdf
 </template>
 
 <script>
-import pdf from 'vue-pdf'
+import pdf from 'wangzheng-vue-pdf-signature'
 
 export default {
   components: {
